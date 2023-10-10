@@ -1,4 +1,6 @@
 import { Card } from "./components/Card";
+import { Contact } from "./components/Contact";
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { Main } from "./components/Main";
 import { Menu } from "./components/Menu";
@@ -15,6 +17,8 @@ export default function App() {
       <Socials/>
       <Card/>
       <Support/>
+      <Contact/>
+      <Footer/>
     </>
   )
 }
