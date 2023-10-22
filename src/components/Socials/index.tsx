@@ -3,11 +3,11 @@ import { FaTwitch, FaFacebook, FaTwitter, FaInstagram, FaYoutube, FaSoundcloud} 
 const Socials = () =>{
     return(
         <section>
-        <div className="bg-gray-400 bg-opacity-10 p-10 h-auto 
-                text-center text-blue-400 tracking-wider text-2xl md:text-4xl">
+        <div className="bg-slate-900 p-10 h-auto shadow-2xl hover:shadow-white shadow-black
+                text-center text-orange-700 tracking-wider text-2xl md:text-4xl border-t-2 border-slate-800 border-opacity-20">
             <div>
                 <h2 className="mb-8">Redes sociais</h2>
-                <ul className="flex gap-9 justify-center text-black ">
+                <ul className="flex gap-9 justify-center text-slate-600">
                     <li>
                         <a className="hover:text-orange-700 transition ease-in-out delay-400"
                             href="https://twitter.com/spacechronix" target="_blank"><FaTwitter/></a>
