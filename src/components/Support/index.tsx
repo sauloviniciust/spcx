@@ -4,7 +4,7 @@ const Support = () => {
 			<div className="text-center text-2xl md:text-4xl tracking-wider pt-8">
 				<h2 className="text-laranjado-300" >Supported By</h2>
 				<div>
-					<nav className="flex gap-10 mx-10 justify-center p-5 xl:mx-36 xl:gap-36">
+					<nav className="flex gap-5 sm:gap-10 mx-3 justify-center p-5 lg:mx-30 lg:gap-36 xl:mx-36 xl:gap-36">
 						
 						<div className="hover:scale-110 hover:animate-pulse my-auto w-4/12" >
 							<a href="https://www.instagram.com/horizohmcrew/?theme=dark" target="_blank">

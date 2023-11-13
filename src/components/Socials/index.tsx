@@ -7,7 +7,7 @@ const Socials = () =>{
                 text-center text-orange-700 tracking-wider text-2xl md:text-4xl border-t-2 border-slate-800 border-opacity-20">
             <div>
                 <h2 className="mb-8">Redes sociais</h2>
-                <ul className="flex gap-9 justify-center text-slate-600">
+                <ul className="flex gap-9 justify-center text-slate-600 text-3xl sm:text-5xl">
                     <li>
                         <a className="hover:text-orange-700 transition ease-in-out delay-400"
                             href="https://twitter.com/spacechronix" target="_blank"><FaTwitter/></a>

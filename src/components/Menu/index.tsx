@@ -36,7 +36,7 @@ const Menu = () => {
            <li><a className="text-2xl  hover:text-red-600 " href="#caminhada">Historia</a></li>
            <li><a className="text-2xl  hover:text-red-600 " href=".#conheça">Conheça</a></li>
            <li><a className="text-2xl  hover:text-red-600 " href="#contato">Contato</a></li>
-           <li><a className="text-2xl  hover:text-red-600 " href="https://drive.google.com/drive/folders/1PXMsfCpkuUUQt9ajB1fjrV_zANqjL6km?usp=sharing" target="blank">Presskit</a></li>
+           <li><a className="text-2xl  hover:text-red-600  mr-8" href="https://drive.google.com/drive/folders/1PXMsfCpkuUUQt9ajB1fjrV_zANqjL6km?usp=sharing" target="blank">Presskit</a></li>
        </ul>
    </div>
 </div>
