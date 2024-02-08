@@ -28,12 +28,12 @@ const Footer = () => {
 												className="fa-brands fa-github hover:text-red-500"></i></a>
 									</li>
 									<li>
-										<a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271"
+										<a href="https://www.linkedin.com/in/sauloviniciust/"
 											target="_blank"><i
 												className=" fa-brands fa-linkedin-in hover:text-red-500"></i></a>
 									</li>
 									<li>
-										<a href="https://www.instagram.com/sauloviniciust" target="_blank"><i
+										<a href="https://www.instagram.com/sauloviniciust.dev" target="_blank"><i
 												className=" fa-brands fa-instagram hover:text-red-500"></i></a>
 									</li>
 
